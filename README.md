@@ -9,19 +9,19 @@
 | [المغامر / Adventurer](#role-المغامر--adventurer) | [مكافح الإدارة / Anti-Adminer](#role-مكافح-الإدارة--anti-adminer) | [فاقد الذاكرة / Amnesiac](#role-فاقد-الذاكرة--amnesiac) | [زعيم العشيرة / Coven Leader](#role-زعيم-العشيرة--coven-leader) | [المرساة / Anchor](#role-المرساة--anchor) |
 | [المعونة / Aid](#role-المعونة--aid) | [الغطرسة / Arrogance](#role-الغطرسة--arrogance) | [أموغوس / Amogus](#role-أموغوس--amogus) | [عضو العشيرة / Coven Member](#role-عضو-العشيرة--coven-member) | [الترياق / Antidote](#role-الترياق--antidote) |
 | [الكيميائي / Alchemist](#role-الكيميائي--alchemist) | [المفترض / Assumer](#role-المفترض--assumer) | [المحرق / Arsonist](#role-المحرق--arsonist) | [الموت / Death](#role-الموت--death) | [مكافح النقل / Anti-TP](#role-مكافح-النقل--anti-tp) |
-| الإيثاري / Altruist | المعزز / Augmenter | المدقق / Auditor | نساج الأحلام / Dreamweaver | المصاب بالربو / Asthmatic |
-| المحلل / Analyst | الشاعر / Bard | الطعان / Backstabber | الساحر / Enchanter | التشريح / Autopsy |
-| الأنكيلوصور / Ankylosaurus | المبتز / Blackmailer | اللص / Bandit | الإلهة / Goddess | المنتقم / Avenger |
-| النجمي / Astral | القاذف / Bomber | المساوم / Bargainer | الوهمي / Illusionist | الطعم / Bait |
-| الأوتوقراطي / Autocrat | صياد الجوائز / Bounty Hunter | خلية النحل / Beehive | الصياد / Poache | رجل الموز / Banana Man |
-| اللعنة / Bane | الجزار / Butcher | فارس الدم / Blood Knight | سيد الجرعات / Potion Master | فخ الدب / Beartrap |
-| البطارية / Battery | المموه / Camouflager | الفقاعة / Bubble | الحاصد / Reaper | المحير / Bewilder |
-| المنارة / Beacon | الرأسمالي / Capitalist | الكيميائي / Chemist | حورية البحر / Siren | الأعمى / Blind |
-| المحسن / Benefactor | العنيد / Cantankerous | الشيروكي / Cherokious | ساحر التعاويذ / Spellcaster | المحجوب / Blocked |
-| الحارس الشخصي / Bodyguard | المتغير / Changeling | الجامع / Collector | سيد الزمن / Timelord | شهوة الدم / Bloodlust |
-| رجل الكاميرا / Camera Man | ساحر الزمن / Chronomancer | اللاعن / Curser | سيد الفودو / Voodoo Master | القمر الدموي / Bloodmoon |
-| السيارة / Car | المنظف / Cleaner | فارس الموت / Deathknight | الغريب / Wyrd | المشغول / Busy |
-| الماسك / Catcher | حاجب الساعة / Clock Blocker | الشيطان / Demon |  | المسحور / Charmed |
+| [الإيثاري / Altruist](#role-الإيثاري--altruist) | [المعزز / Augmenter](#role-المعزز--augmenter) | [المدقق / Auditor](#role-المدقق--auditor) | [نساج الأحلام / Dreamweaver](#role-نساج-الأحلام--dreamweaver) | [المصاب بالربو / Asthmatic](#role-المصاب-بالربو--asthmatic) |
+| [المحلل / Analyst](#role-المحلل--analyst) | [الشاعر / Bard](#role-الشاعر--bard) | [الطعان / Backstabber](#role-الطعان--backstabber) | [الساحر / Enchanter](#role-الساحر--enchanter) | [التشريح / Autopsy](#role-التشريح--autopsy) |
+| [الأنكيلوصور / Ankylosaurus](#role-الأنكيلوصور--ankylosaurus) | [المبتز / Blackmailer](#role-المبتز--blackmailer) | [اللص / Bandit](#role-اللص--bandit) | [الإلهة / Goddess](#role-الإلهة--goddess) | [المنتقم / Avenger](#role-المنتقم--avenger) |
+| [النجمي / Astral](#role-النجمي--astral) | [القاذف / Bomber](#role-القاذف--bomber) | [المساوم / Bargainer](#role-المساوم--bargainer) | [الوهمي / Illusionist](#role-الوهمي--illusionist) | [الطعم / Bait](#role-الطعم--bait) |
+| [الأوتوقراطي / Autocrat](#role-الأوتوقراطي--autocrat) | [صياد الجوائز / Bounty Hunter](#role-صياد-الجوائز--bounty-hunter) | [خلية النحل / Beehive](#role-خلية-النحل--beehive) | [الصياد / Poache](#role-الصياد--poache) | [رجل الموز / Banana Man](#role-رجل-الموز--banana-man) |
+| [اللعنة / Bane](#role-اللعنة--bane) | [الجزار / Butcher](#role-الجزار--butcher) | [فارس الدم / Blood Knight](#role-فارس-الدم--blood-knight) | [سيد الجرعات / Potion Master](#role-سيد-الجرعات--potion-master) | [فخ الدب / Beartrap](#role-فخ-الدب--beartrap) |
+| [البطارية / Battery](#role-البطارية--battery) | [المموه / Camouflager](#role-المموه--camouflager) | [الفقاعة / Bubble](#role-الفقاعة--bubble) | [الحاصد / Reaper](#role-الحاصد--reaper) | [المحير / Bewilder](#role-المحير--bewilder) |
+| [المنارة / Beacon](#role-المنارة--beacon) | [الرأسمالي / Capitalist](#role-الرأسمالي--capitalist) | [الكيميائي / Chemist](#role-الكيميائي--chemist) | [حورية البحر / Siren](#role-حورية-البحر--siren) | [الأعمى / Blind](#role-الأعمى--blind) |
+| [المحسن / Benefactor](#role-المحسن--benefactor) | [العنيد / Cantankerous](#role-العنيد--cantankerous) | [الشيروكي / Cherokious](#role-الشيروكي--cherokious) | [ساحر التعاويذ / Spellcaster](#role-ساحر-التعاويذ--spellcaster) | [المحجوب / Blocked](#role-المحجوب--blocked) |
+| [الحارس الشخصي / Bodyguard](#role-الحارس-الشخصي--bodyguard) | [المتغير / Changeling](#role-المتغير--changeling) | [الجامع / Collector](#role-الجامع--collector) | [سيد الزمن / Timelord](#role-سيد-الزمن--timelord) | [شهوة الدم / Bloodlust](#role-شهوة-الدم--bloodlust) |
+| [رجل الكاميرا / Camera Man](#role-رجل-الكاميرا--camera-man) | [ساحر الزمن / Chronomancer](#role-ساحر-الزمن--chronomancer) | [اللاعن / Curser](#role-اللاعن--curser) | [سيد الفودو / Voodoo Master](#role-سيد-الفودو--voodoo-master) | [القمر الدموي / Bloodmoon](#role-القمر-الدموي--bloodmoon) |
+| [السيارة / Car](#role-السيارة--car) | [المنظف / Cleaner](#role-المنظف--cleaner) | [فارس الموت / Deathknight](#role-فارس-الموت--deathknight) | [الغريب / Wyrd](#role-الغريب--wyrd) | [المشغول / Busy](#role-المشغول--busy) |
+| [الماسك / Catcher](#role-الماسك--catcher) | [حاجب الساعة / Clock Blocker](#role-حاجب-الساعة--clock-blocker) | [الشيطان / Demon](#role-الشيطان--demon) |  | [المسحور / Charmed](#role-المسحور--charmed) |
 | [الحرباء / Chameleon](#role-الحرباء--chameleon) | [القائد / Commander](#role-القائد--commander) | [المضاعف / Doppelganger](#role-المضاعف--doppelganger) |  | [المتحايل / Circumvent](#role-المتحايل--circumvent) |
 | [الطباخ / Chef](#role-الطباخ--chef) | [المستشار / Consigliere](#role-المستشار--consigliere) | [نبي الهلاك / Doomsayer](#role-نبي-الهلاك--doomsayer) |  | [المطهر / Cleansed](#role-المطهر--cleansed) |
 | [البصير / Clairvoyant](#role-البصير--clairvoyant) | [العشيقة / Consort](#role-العشيقة--consort) | [الكسوف / Eclipse](#role-الكسوف--eclipse) |  | [الأخرق / Clumsy](#role-الأخرق--clumsy) |
@@ -53,19 +53,19 @@
 | [الإوزة / Goose](#role-الإوزة--goose) | [المنافق / Hypocrite](#role-المنافق--hypocrite) | [عالم الفطريات / Mycologist](#role-عالم-الفطريات--mycologist) |  | [الانطوائي / Introvert](#role-الانطوائي--introvert) |
 | [المصارع / Grappler](#role-المصارع--grappler) | [المثبط / Inhibitor](#role-المثبط--inhibitor) | [المخمن الميت / Necro-Guesser](#role-المخمن-الميت--necro-guesser) |  | [المسفوف / Knighted](#role-المسفوف--knighted) |
 | [قاذف القنابل / Grenadier](#role-قاذف-القنابل--grenadier) | [الكاميكازي / Kamikaze](#role-الكاميكازي--kamikaze) | [ناكروماسر / Necromancer](#role-ناكروماسر--necromancer) |  | [المحتال الأخير / Last Impostor](#role-المحتال-الأخير--last-impostor) |
-| مدير الاجتماع / Meeting Manager | الخاطف / Kidnapper | المحير / Nonplus |  | الكسول / Lazy |
-| الحارس / Guardian | آلة القتل / Killing Machine | قاتل المذكرات / Note Killer |  | العشاق / Lovers |
-| المساعد / Helper | البرق / Lightning | الانتهازي / Opportunist |  | المخلص / Loyal |
-| المشعل / Ignitor | أمين المكتبة / Librarian | الدورية / Patroller |  | المحظوظ / Lucky |
-| المقلد / Imitator | المتربص / Lurker | البيدق / Pawn |  | المجنون / Madmate |
-| البصيرة / Insight | المافيوزي / Mafioso | البجع / Pelican |  | المغناطيس / Magnet |
-| المفتش / Inspector | العقل المدبر / Mastermind | الطاعون / Pestilence |  | الفرس / Mare |
-| الباحث / Inquirer | النمسيس / Nemesis | الطيف / Specter |  | الرسول / Messenger |
-| السجان / Jailor | المرتزق / Mercenary | النشال / Pickpocket |  | المقلد / Mimic |
-| الصحفي / Journalist | المنجم / Miner | حامل الطاعون / Plaguebearer |  | التابع / Minion |
-| القاضي / Judge | المتحول / Morphling | العدوى / Infection |  | المؤذي / Mischievous |
-| الرجل الكسول / Lazy Guy | النينجا / Ninja | المسمم / Poisoner |  | رؤية الموتى / Necroview |
-| الحذر / Leery | النووي / Nuker | ساعي البريد / Postman |  | الرشيق / Nimble |
+| [مدير الاجتماع / Meeting Manager](#role-مدير-الاجتماع--meeting-manager) | [الخاطف / Kidnapper](#role-الخاطف--kidnapper) | [المحير / Nonplus](#role-المحير--nonplus) |  | [الكسول / Lazy](#role-الكسول--lazy) |
+| [الحارس / Guardian](#role-الحارس--guardian) | [آلة القتل / Killing Machine](#role-آلة-القتل--killing-machine) | [قاتل المذكرات / Note Killer](#role-قاتل-المذكرات--note-killer) |  | [العشاق / Lovers](#role-العشاق--lovers) |
+| [المساعد / Helper](#role-المساعد--helper) | [البرق / Lightning](#role-البرق--lightning) | [الانتهازي / Opportunist](#role-الانتهازي--opportunist) |  | [المخلص / Loyal](#role-المخلص--loyal) |
+| [المشعل / Ignitor](#role-المشعل--ignitor) | [أمين المكتبة / Librarian](#role-أمين-المكتبة--librarian) | [الدورية / Patroller](#role-الدورية--patroller) |  | [المحظوظ / Lucky](#role-المحظوظ--lucky) |
+| [المقلد / Imitator](#role-المقلد--imitator) | [المتربص / Lurker](#role-المتربص--lurker) | [البيدق / Pawn](#role-البيدق--pawn) |  | [المجنون / Madmate](#role-المجنون--madmate) |
+| [البصيرة / Insight](#role-البصيرة--insight) | [المافيوزي / Mafioso](#role-المافيوزي--mafioso) | [البجع / Pelican](#role-البجع--pelican) |  | [المغناطيس / Magnet](#role-المغناطيس--magnet) |
+| [المفتش / Inspector](#role-المفتش--inspector) | [العقل المدبر / Mastermind](#role-العقل-المدبر--mastermind) | [الطاعون / Pestilence](#role-الطاعون--pestilence) |  | [الفرس / Mare](#role-الفرس--mare) |
+| [الباحث / Inquirer](#role-الباحث--inquirer) | [النمسيس / Nemesis](#role-النمسيس--nemesis) | [الطيف / Specter](#role-الطيف--specter) |  | [الرسول / Messenger](#role-الرسول--messenger) |
+| [السجان / Jailor](#role-السجان--jailor) | [المرتزق / Mercenary](#role-المرتزق--mercenary) | [النشال / Pickpocket](#role-النشال--pickpocket) |  | [المقلد / Mimic](#role-المقلد--mimic) |
+| [الصحفي / Journalist](#role-الصحفي--journalist) | [المنجم / Miner](#role-المنجم--miner) | [حامل الطاعون / Plaguebearer](#role-حامل-الطاعون--plaguebearer) |  | [التابع / Minion](#role-التابع--minion) |
+| [القاضي / Judge](#role-القاضي--judge) | [المتحول / Morphling](#role-المتحول--morphling) | [العدوى / Infection](#role-العدوى--infection) |  | [المؤذي / Mischievous](#role-المؤذي--mischievous) |
+| [الرجل الكسول / Lazy Guy](#role-الرجل-الكسول--lazy-guy) | [النينجا / Ninja](#role-النينجا--ninja) | [المسمم / Poisoner](#role-المسمم--poisoner) |  | [رؤية الموتى / Necroview](#role-رؤية-الموتى--necroview) |
+| [الحذر / Leery](#role-الحذر--leery) | [النووي / Nuker](#role-النووي--nuker) | [ساعي البريد / Postman](#role-ساعي-البريد--postman) |  | [الرشيق / Nimble](#role-الرشيق--nimble) |
 
 **إجمالي الأدوار: 129 فرد طاقم، 98 محتال، 107 محايد، 17 عشيرة، 95 إضافة**
 
